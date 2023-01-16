@@ -1,0 +1,18 @@
+SMAP
+DeleteNGO_jsp.java
+JSP
+*S JSP
+*F
++ 0 DeleteNGO.jsp
+DeleteNGO.jsp
+*L
+5,26:46
+31,3:73
+33,23:76
+56,8:100
+63,14:108
+77,5:122,3
+82,7:137
+89:144,3
+90,7:147
+*E

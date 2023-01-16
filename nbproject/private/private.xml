@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/pet/web/css/style1.css</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/pet/web/admin.jsp</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/pet/src/java/dao/UpdateNgoDAO.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/pet/src/java/model/AddNewNGOAuthentication.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/pet/web/css/VerifyNGO.css</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/pet/src/java/dao/VerifyNGODAO.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/pet/src/java/model/NGORequestFormAuthentication.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/pet/src/java/controller/UpdateNgoData.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/pet/src/java/dto/NGORequestFormDTO.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/pet/src/java/dto/RegisterAdminDTO.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/pet/web/DeleteNGO.jsp</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/pet/src/java/controller/VerifyNGOData.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/pet/src/java/controller/VerifyNGO.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/pet/web/RegisterAdmin.jsp</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/pet/src/java/db/DBConnector.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/pet/src/java/controller/AddNewNGO.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/pet/nbproject/build-impl.xml</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/pet/src/java/controller/ContactUs.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/pet/web/VerifyNGO.jsp</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/pet/src/java/model/UpdateNgoAuthentification.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/pet/src/java/dto/VerifyNGODTO.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/pet/src/java/model/RegisterAdminAuthentication.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/pet/web/updateNgo.jsp</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/pet/src/java/controller/DisplayNGO.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/pet/src/java/controller/DeleteNGOData.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/pet/web/css/style.scss</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/pet/web/AddNewNGO.jsp</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/pet/src/java/dao/DisplayNGODAO.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/pet/src/java/controller/RegisterAdmin.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/pet/src/java/controller/UpdateNgo.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/pet/web/css/style.css</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/pet/src/java/dao/DeleteNGODAO.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/pet/web/NGORequestForm.jsp</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/pet/src/java/model/VerifyNGOAuthentication.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/pet/src/java/dto/DeleteNGODTO.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/pet/web/updateNgoData.jsp</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/pet/web/index.jsp</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/pet/src/java/model/DeleteNGOAuthentication.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/pet/src/java/controller/DeleteNGO.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/pet/web/image/home_bg_img.jpg</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/pet/src/java/controller/Login.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/pet/src/java/controller/NGORequestForm.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/pet/src/java/model/ContactUsAuthentification.java</file>
+        </group>
+    </open-files>
+</project-private>
